@@ -12,11 +12,10 @@
 - Building scalable web apps  
 - Learning cutting-edge technologies  
 
-#### 📫 Reach Me  
-- LinkedIn: [Your LinkedIn URL]  
-- Email: your.email@example.com  
-
-#### ⚡ Fun Fact: I can learn a new framework just to debug a meme! 🚀  
+#### ⚡ Fun Fact:  
+When I'm not coding, I'm probably:  
+- 🧪 Experimenting with new frameworks  
+- 📚 Reading tech docs *for fun*
 
 <!---
 abranher/abranher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
