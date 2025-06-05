@@ -16,7 +16,6 @@
 - LinkedIn: [Your LinkedIn URL]  
 - Email: your.email@example.com  
 
-#### 😄 Pronouns: He/Him  
 #### ⚡ Fun Fact: I can learn a new framework just to debug a meme! 🚀  
 
 <!---
